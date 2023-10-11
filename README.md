@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.tenor.com/FftPgf93Wn8AAAAM/monkey-monkey-in-shower.gif))](https://rishavchanda.io)
+<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding" width="100%">
 
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">Student of KPI</h3>
@@ -6,9 +6,22 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="mailto:inavlo092@gmail.com">inavlo092@gmail.com</a></h3>
+
 <p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+  
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" alt="intellij-idea" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"  width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://github.com/JetBrains/logos/blob/master/web/webstorm/webstorm.svg" alt="webstorm" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/d2553e6a8b07578c156ddd9dee854029e67325a6/logo-mark.svg" alt="postman" width="30px" style="padding-right:10px;"/>
+
