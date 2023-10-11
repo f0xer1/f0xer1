@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://media.tenor.com/FftPgf93Wn8AAAAM/monkey-monkey-in-shower.gif))](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">Student of KPI</h3>
