@@ -24,4 +24,13 @@
 <img align="left" src="https://github.com/JetBrains/logos/blob/master/web/webstorm/webstorm.svg" alt="webstorm" width="30px" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="30px" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/d2553e6a8b07578c156ddd9dee854029e67325a6/logo-mark.svg" alt="postman" width="30px" style="padding-right:10px;"/>
+<br />
+<br />
+<br />
 
+---
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=f0xer1&show_icons=true&locale=en&layout=compact" alt="f0xer1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f0xer1&show_icons=true&locale=en" alt="f0xer1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=f0xer1&" alt="f0xer1" /></p>
