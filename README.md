@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">Student of KPI</h3>
-<img align ="right" alt="monkey" whidth ="200" src ="https://media.tenor.com/3h2_-5Z-nlwAAAAM/drip-monkey-monke.gif">
+<img align ="right" alt="monkey" whidth ="300" src ="https://media.tenor.com/3h2_-5Z-nlwAAAAM/drip-monkey-monke.gif">
 
 - 🌱 I’m currently learning **Spring Framework**
 
