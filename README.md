@@ -28,7 +28,9 @@
 <br />
 <br />
 
----
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f0xer1&show_icons=true&hide_border=true&locale=en" alt="f0xer1" /></p>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f0xer1&show_icons=true&locale=en&layout=compact" alt="f0xer1" />
 </p>
