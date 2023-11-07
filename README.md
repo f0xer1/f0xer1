@@ -28,10 +28,9 @@
 <br />
 <br />
 
+<div style="display: flex; flex-direction: row; align-items: center; ">
+  <p style="margin: 0;"><img src="https://github-readme-stats.vercel.app/api?username=f0xer1&show_icons=true&hide_border=true&locale=en&theme=dark" alt="f0xer1" /></p>
+  <p style="margin: 0;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=f0xer1&show_icons=true&hide_border=true&locale=en&layout=compact&theme=dark" alt="f0xer1" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=f0xer1&show_icons=true&hide_border=true&locale=en" alt="f0xer1" /></p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f0xer1&show_icons=true&locale=en&layout=compact" alt="f0xer1" />
-</p>
 
