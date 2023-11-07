@@ -1,4 +1,4 @@
-<img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="coding" width="100%">
+
 
 <h1 align="center">Hi 👋, I'm Pavlo</h1>
 <h3 align="center">Student of KPI</h3>
@@ -35,6 +35,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=f0xer1&show_icons=true&locale=en&layout=compact" alt="f0xer1" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=f0xer1" alt="f0xer1" />
-</p>
