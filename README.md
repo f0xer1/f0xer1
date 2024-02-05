@@ -3,7 +3,7 @@
 <h1 align="center">Hi 🔥, I'm Pavlo</h1>
 <h3 align="center">Student of KPI</h3>
 
-- 📙 Now I am studying in depth **Spring Framework**
+- 📙 I am currently learning the **Spring Framework** in depth
 
 <h3 align="left">Connect with me: <a href="mailto:inavlo092@gmail.com">inavlo092@gmail.com</a></h3>
 
