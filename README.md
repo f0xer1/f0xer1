@@ -1,9 +1,9 @@
 
 
-<h1 align="center">Hi 👋, I'm Pavlo</h1>
+<h1 align="center">Hi 🔥, I'm Pavlo</h1>
 <h3 align="center">Student of KPI</h3>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 📙 Now I am studying in depth **Spring Framework**
 
 <h3 align="left">Connect with me: <a href="mailto:inavlo092@gmail.com">inavlo092@gmail.com</a></h3>
 
