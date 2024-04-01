@@ -23,9 +23,9 @@
 <img align="left" src="https://github.com/JetBrains/logos/blob/master/web/webstorm/webstorm.svg" alt="webstorm" width="30px" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" alt="git" width="30px" style="padding-right:10px;"/>
 <img align="left" src="https://raw.githubusercontent.com/flathub/com.getpostman.Postman/d2553e6a8b07578c156ddd9dee854029e67325a6/logo-mark.svg" alt="postman" width="30px" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30px" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30px" style="padding-right:10px;"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30px" style="padding-right:10px;"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30px" style="padding-right:10px;"/>
 <br />
 <br />
 <br />
